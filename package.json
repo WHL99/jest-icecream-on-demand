@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test ./pages/summary/test ./pages/entry/test",
+    "test": "react-scripts test ./pages/entry/test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
